@@ -1,0 +1,10 @@
+.aside {
+  height: 90.2vh;
+}
+
+.line {
+  height:2px;
+  border-width:0;
+  color:green;
+  background-color:green
+}
